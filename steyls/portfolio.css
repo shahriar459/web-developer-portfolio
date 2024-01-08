@@ -1,7 +1,7 @@
 nav{
 display: flex;
 justify-content: space-between;
-
+margin: 0px 200px;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -36,4 +36,17 @@ nav li{
 nav a{
     text-decoration: none;
     color: tomato;
+}
+
+.header{
+    background-color:rgb(216, 191, 191);
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profil-pic{
+width: 500px;
+
 }
