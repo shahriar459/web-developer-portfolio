@@ -1,0 +1,39 @@
+nav{
+display: flex;
+justify-content: space-between;
+
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-title{
+    color: black;
+
+    font-size: 45px;
+    font-weight: 800;
+   
+}
+.text-primary{
+    color: tomato;
+}
+.btn-primary{border-radius: 5px;
+background-color: tomato;
+border: 0;
+color: white;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+padding: 12px 24px;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: tomato;
+}
