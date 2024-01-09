@@ -149,3 +149,9 @@ gap: 50px;
     text-align: center;
     margin-top: 50px;
 }
+footer{
+    display: flex;
+    background-color: #fff8f3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
