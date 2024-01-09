@@ -90,6 +90,9 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+.main section{
+    margin-top: 130px;
+}
 .about-info-container{
 display: flex;
 justify-content: space-around;
@@ -99,4 +102,25 @@ justify-content: space-around;
 }
 #what-i-do-description{
     padding: 30px 150px;
+}
+
+.skills-container{
+display: flex;
+gap: 24px;
+}
+.skill-discription{
+    padding: 30px;
+    color: #757575;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+}
+.resume-colum-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
 }
