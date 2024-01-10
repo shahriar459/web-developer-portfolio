@@ -131,6 +131,7 @@ gap: 50px;
 }
 .resume-item-institute, .resume-item-description{
     color: #757575;
+    
 }
 .resume-item-institute{
     margin-bottom: 20px;
@@ -151,7 +152,30 @@ gap: 50px;
 }
 footer{
     display: flex;
+    gap: 100px;
     background-color: #fff8f3;
     margin-top: 100px;
     padding: 130px 200px;
+}
+.footer-column{
+    width: 50%;
+    
+}
+.contact input[type="text"], .contact input[type="email"]
+, textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #fff;
+    border: 0px;
+    width: 100%;
+}
+.social-links a{
+    margin-right: 25px;
+
+}
+.section-description{
+    margin-right: 50px;
 }
