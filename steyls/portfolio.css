@@ -165,7 +165,7 @@ footer{
 , textarea{
     display: block;
     margin-bottom: 25px;
-    padding: 18px 35px;
+    padding: 20px 100px;
     color: #757575;
     border-radius: 5px;
     background: #fff;
@@ -176,6 +176,5 @@ footer{
     margin-right: 25px;
 
 }
-.section-description{
-    margin-right: 50px;
-}
+
+
